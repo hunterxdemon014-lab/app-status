@@ -1,9 +1,9 @@
 {
   "status": "active",
-  "title": "📢 নতুন ভার্সন এসেছে!",
-  "message": "আপনার ভার্সন পুরোনো। দয়া করে আপডেট করুন।",
-  "button_text": "📥 আপডেট করুন",
+  "title": "📢 নতুন ভার্সন ৪ এসেছে!",
+  "message": "আপনার পুরোনো ভার্সন (১,২,৩) বন্ধ করা হয়েছে। দয়া করে নতুন ভার্সন ৪ ডাউনলোড করুন।",
+  "button_text": "📥 ভার্সন ৪ ডাউনলোড",
   "button_color": "#0088CC",
   "update_url": "https://t.me/netis_metro",
-  "min_version_code": 3
+  "min_version_code": 4
 }
