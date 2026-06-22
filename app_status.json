@@ -1,10 +1,9 @@
 {
   "status": "active",
-  "title": "📢 শুধু ভার্সন ৩ চলছে",
-  "message": "অন্যান্য ভার্সন ব্লক করা হয়েছে।",
-  "button_text": "OK",
+  "title": "📢 নতুন ভার্সন  এসেছে!",
+  "message": "আপনার পুরোনো ভার্সন  বন্ধ করা হয়েছে। দয়া করে নতুন ভার্সন ৫ ডাউনলোড করুন।",
+  "button_text": "📥 নতুন ভার্সন ডাউনলোড",
   "button_color": "#0088CC",
   "update_url": "https://t.me/netis_metro",
-  "min_version_code": 1,
-  "block_version": 3
+  "min_version_code": 5
 }
